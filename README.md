@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0064-minimum-path-sum](https://github.com/nikprad/leetcode/tree/master/0064-minimum-path-sum) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/nikprad/leetcode/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/nikprad/leetcode/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [2498-frog-jump-ii](https://github.com/nikprad/leetcode/tree/master/2498-frog-jump-ii) |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0064-minimum-path-sum](https://github.com/nikprad/leetcode/tree/master/0064-minimum-path-sum) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/nikprad/leetcode/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/nikprad/leetcode/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1641-count-sorted-vowel-strings](https://github.com/nikprad/leetcode/tree/master/1641-count-sorted-vowel-strings) |
@@ -36,4 +38,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1641-count-sorted-vowel-strings](https://github.com/nikprad/leetcode/tree/master/1641-count-sorted-vowel-strings) |
+## Matrix
+|  |
+| ------- |
+| [0064-minimum-path-sum](https://github.com/nikprad/leetcode/tree/master/0064-minimum-path-sum) |
 <!---LeetCode Topics End-->
