@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [1186-maximum-subarray-sum-with-one-deletion](https://github.com/nikprad/leetcode/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/nikprad/leetcode/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [2498-frog-jump-ii](https://github.com/nikprad/leetcode/tree/master/2498-frog-jump-ii) |
 | [3660-jump-game-ix](https://github.com/nikprad/leetcode/tree/master/3660-jump-game-ix) |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [1186-maximum-subarray-sum-with-one-deletion](https://github.com/nikprad/leetcode/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/nikprad/leetcode/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [3660-jump-game-ix](https://github.com/nikprad/leetcode/tree/master/3660-jump-game-ix) |
 ## String
