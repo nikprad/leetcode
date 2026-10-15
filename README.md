@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [1578-minimum-time-to-make-rope-colorful](https://github.com/nikprad/leetcode/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [2498-frog-jump-ii](https://github.com/nikprad/leetcode/tree/master/2498-frog-jump-ii) |
 | [3660-jump-game-ix](https://github.com/nikprad/leetcode/tree/master/3660-jump-game-ix) |
 ## Binary Search
@@ -13,9 +14,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [1578-minimum-time-to-make-rope-colorful](https://github.com/nikprad/leetcode/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [2498-frog-jump-ii](https://github.com/nikprad/leetcode/tree/master/2498-frog-jump-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [1578-minimum-time-to-make-rope-colorful](https://github.com/nikprad/leetcode/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [3660-jump-game-ix](https://github.com/nikprad/leetcode/tree/master/3660-jump-game-ix) |
+## String
+|  |
+| ------- |
+| [1578-minimum-time-to-make-rope-colorful](https://github.com/nikprad/leetcode/tree/master/1578-minimum-time-to-make-rope-colorful) |
 <!---LeetCode Topics End-->
