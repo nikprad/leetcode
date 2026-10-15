@@ -22,9 +22,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/nikprad/leetcode/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/nikprad/leetcode/tree/master/1578-minimum-time-to-make-rope-colorful) |
+| [1641-count-sorted-vowel-strings](https://github.com/nikprad/leetcode/tree/master/1641-count-sorted-vowel-strings) |
 | [3660-jump-game-ix](https://github.com/nikprad/leetcode/tree/master/3660-jump-game-ix) |
 ## String
 |  |
 | ------- |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/nikprad/leetcode/tree/master/1578-minimum-time-to-make-rope-colorful) |
+## Math
+|  |
+| ------- |
+| [1641-count-sorted-vowel-strings](https://github.com/nikprad/leetcode/tree/master/1641-count-sorted-vowel-strings) |
+## Combinatorics
+|  |
+| ------- |
+| [1641-count-sorted-vowel-strings](https://github.com/nikprad/leetcode/tree/master/1641-count-sorted-vowel-strings) |
 <!---LeetCode Topics End-->
