@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/nikprad/leetcode/tree/master/0001-two-sum) |
+| [0015-3sum](https://github.com/nikprad/leetcode/tree/master/0015-3sum) |
 | [0064-minimum-path-sum](https://github.com/nikprad/leetcode/tree/master/0064-minimum-path-sum) |
 | [0216-combination-sum-iii](https://github.com/nikprad/leetcode/tree/master/0216-combination-sum-iii) |
 | [1029-two-city-scheduling](https://github.com/nikprad/leetcode/tree/master/1029-two-city-scheduling) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/nikprad/leetcode/tree/master/0015-3sum) |
 | [1029-two-city-scheduling](https://github.com/nikprad/leetcode/tree/master/1029-two-city-scheduling) |
 | [1338-reduce-array-size-to-the-half](https://github.com/nikprad/leetcode/tree/master/1338-reduce-array-size-to-the-half) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/nikprad/leetcode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
@@ -93,4 +95,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/nikprad/leetcode/tree/master/0021-merge-two-sorted-lists) |
+## Two Pointers
+|  |
+| ------- |
+| [0015-3sum](https://github.com/nikprad/leetcode/tree/master/0015-3sum) |
 <!---LeetCode Topics End-->
