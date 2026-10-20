@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/nikprad/leetcode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3660-jump-game-ix](https://github.com/nikprad/leetcode/tree/master/3660-jump-game-ix) |
 | [3693-climbing-stairs-ii](https://github.com/nikprad/leetcode/tree/master/3693-climbing-stairs-ii) |
+| [3886-sum-of-sortable-integers](https://github.com/nikprad/leetcode/tree/master/3886-sum-of-sortable-integers) |
 ## Binary Search
 |  |
 | ------- |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/nikprad/leetcode/tree/master/0002-add-two-numbers) |
 | [0070-climbing-stairs](https://github.com/nikprad/leetcode/tree/master/0070-climbing-stairs) |
 | [1641-count-sorted-vowel-strings](https://github.com/nikprad/leetcode/tree/master/1641-count-sorted-vowel-strings) |
+| [3886-sum-of-sortable-integers](https://github.com/nikprad/leetcode/tree/master/3886-sum-of-sortable-integers) |
 ## Combinatorics
 |  |
 | ------- |
@@ -68,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1029-two-city-scheduling](https://github.com/nikprad/leetcode/tree/master/1029-two-city-scheduling) |
 | [1338-reduce-array-size-to-the-half](https://github.com/nikprad/leetcode/tree/master/1338-reduce-array-size-to-the-half) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/nikprad/leetcode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
+| [3886-sum-of-sortable-integers](https://github.com/nikprad/leetcode/tree/master/3886-sum-of-sortable-integers) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -102,4 +105,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/nikprad/leetcode/tree/master/0015-3sum) |
+## Enumeration
+|  |
+| ------- |
+| [3886-sum-of-sortable-integers](https://github.com/nikprad/leetcode/tree/master/3886-sum-of-sortable-integers) |
 <!---LeetCode Topics End-->
