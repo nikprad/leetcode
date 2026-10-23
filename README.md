@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/nikprad/leetcode/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1338-reduce-array-size-to-the-half](https://github.com/nikprad/leetcode/tree/master/1338-reduce-array-size-to-the-half) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/nikprad/leetcode/tree/master/1578-minimum-time-to-make-rope-colorful) |
+| [1929-concatenation-of-array](https://github.com/nikprad/leetcode/tree/master/1929-concatenation-of-array) |
 | [2498-frog-jump-ii](https://github.com/nikprad/leetcode/tree/master/2498-frog-jump-ii) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/nikprad/leetcode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/nikprad/leetcode/tree/master/3644-maximum-k-to-sort-a-permutation) |
@@ -120,4 +121,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/nikprad/leetcode/tree/master/3644-maximum-k-to-sort-a-permutation) |
+## Simulation
+|  |
+| ------- |
+| [1929-concatenation-of-array](https://github.com/nikprad/leetcode/tree/master/1929-concatenation-of-array) |
 <!---LeetCode Topics End-->
