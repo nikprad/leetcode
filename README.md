@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/nikprad/leetcode/tree/master/0002-add-two-numbers) |
+| [0007-reverse-integer](https://github.com/nikprad/leetcode/tree/master/0007-reverse-integer) |
 | [0070-climbing-stairs](https://github.com/nikprad/leetcode/tree/master/0070-climbing-stairs) |
 | [1641-count-sorted-vowel-strings](https://github.com/nikprad/leetcode/tree/master/1641-count-sorted-vowel-strings) |
 | [3886-sum-of-sortable-integers](https://github.com/nikprad/leetcode/tree/master/3886-sum-of-sortable-integers) |
