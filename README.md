@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/nikprad/leetcode/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3660-jump-game-ix](https://github.com/nikprad/leetcode/tree/master/3660-jump-game-ix) |
 | [3693-climbing-stairs-ii](https://github.com/nikprad/leetcode/tree/master/3693-climbing-stairs-ii) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/nikprad/leetcode/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3886-sum-of-sortable-integers](https://github.com/nikprad/leetcode/tree/master/3886-sum-of-sortable-integers) |
 ## Binary Search
 |  |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1641-count-sorted-vowel-strings](https://github.com/nikprad/leetcode/tree/master/1641-count-sorted-vowel-strings) |
 | [3660-jump-game-ix](https://github.com/nikprad/leetcode/tree/master/3660-jump-game-ix) |
 | [3693-climbing-stairs-ii](https://github.com/nikprad/leetcode/tree/master/3693-climbing-stairs-ii) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/nikprad/leetcode/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## String
 |  |
 | ------- |
@@ -68,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/nikprad/leetcode/tree/master/0064-minimum-path-sum) |
 | [1254-number-of-closed-islands](https://github.com/nikprad/leetcode/tree/master/1254-number-of-closed-islands) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/nikprad/leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/nikprad/leetcode/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Hash Table
 |  |
 | ------- |
@@ -127,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/nikprad/leetcode/tree/master/3644-maximum-k-to-sort-a-permutation) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/nikprad/leetcode/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Simulation
 |  |
 | ------- |
