@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1029-two-city-scheduling](https://github.com/nikprad/leetcode/tree/master/1029-two-city-scheduling) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/nikprad/leetcode/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1254-number-of-closed-islands](https://github.com/nikprad/leetcode/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/nikprad/leetcode/tree/master/1267-count-servers-that-communicate) |
 | [1338-reduce-array-size-to-the-half](https://github.com/nikprad/leetcode/tree/master/1338-reduce-array-size-to-the-half) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/nikprad/leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/nikprad/leetcode/tree/master/1578-minimum-time-to-make-rope-colorful) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0064-minimum-path-sum](https://github.com/nikprad/leetcode/tree/master/0064-minimum-path-sum) |
 | [1254-number-of-closed-islands](https://github.com/nikprad/leetcode/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/nikprad/leetcode/tree/master/1267-count-servers-that-communicate) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/nikprad/leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/nikprad/leetcode/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Hash Table
@@ -159,17 +161,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/nikprad/leetcode/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/nikprad/leetcode/tree/master/1267-count-servers-that-communicate) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/nikprad/leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/nikprad/leetcode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/nikprad/leetcode/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/nikprad/leetcode/tree/master/1267-count-servers-that-communicate) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/nikprad/leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Union-Find
 |  |
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/nikprad/leetcode/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/nikprad/leetcode/tree/master/1267-count-servers-that-communicate) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/nikprad/leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Divide and Conquer
 |  |
@@ -192,4 +197,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2747-count-zero-request-servers](https://github.com/nikprad/leetcode/tree/master/2747-count-zero-request-servers) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/nikprad/leetcode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
+## Counting
+|  |
+| ------- |
+| [1267-count-servers-that-communicate](https://github.com/nikprad/leetcode/tree/master/1267-count-servers-that-communicate) |
 <!---LeetCode Topics End-->
