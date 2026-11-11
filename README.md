@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1338-reduce-array-size-to-the-half](https://github.com/nikprad/leetcode/tree/master/1338-reduce-array-size-to-the-half) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/nikprad/leetcode/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [2498-frog-jump-ii](https://github.com/nikprad/leetcode/tree/master/2498-frog-jump-ii) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/nikprad/leetcode/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1641-count-sorted-vowel-strings](https://github.com/nikprad/leetcode/tree/master/1641-count-sorted-vowel-strings) |
 | [2409-count-days-spent-together](https://github.com/nikprad/leetcode/tree/master/2409-count-days-spent-together) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/nikprad/leetcode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/nikprad/leetcode/tree/master/3789-minimum-cost-to-acquire-required-items) |
 | [3886-sum-of-sortable-integers](https://github.com/nikprad/leetcode/tree/master/3886-sum-of-sortable-integers) |
 ## Combinatorics
 |  |
