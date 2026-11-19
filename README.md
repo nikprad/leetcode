@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1882-process-tasks-using-servers](https://github.com/nikprad/leetcode/tree/master/1882-process-tasks-using-servers) |
 | [1929-concatenation-of-array](https://github.com/nikprad/leetcode/tree/master/1929-concatenation-of-array) |
 | [2498-frog-jump-ii](https://github.com/nikprad/leetcode/tree/master/2498-frog-jump-ii) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/nikprad/leetcode/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2747-count-zero-request-servers](https://github.com/nikprad/leetcode/tree/master/2747-count-zero-request-servers) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/nikprad/leetcode/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3364-minimum-positive-sum-subarray](https://github.com/nikprad/leetcode/tree/master/3364-minimum-positive-sum-subarray) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1338-reduce-array-size-to-the-half](https://github.com/nikprad/leetcode/tree/master/1338-reduce-array-size-to-the-half) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/nikprad/leetcode/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [2498-frog-jump-ii](https://github.com/nikprad/leetcode/tree/master/2498-frog-jump-ii) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/nikprad/leetcode/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/nikprad/leetcode/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## Dynamic Programming
 |  |
@@ -114,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1029-two-city-scheduling](https://github.com/nikprad/leetcode/tree/master/1029-two-city-scheduling) |
 | [1338-reduce-array-size-to-the-half](https://github.com/nikprad/leetcode/tree/master/1338-reduce-array-size-to-the-half) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/nikprad/leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/nikprad/leetcode/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2747-count-zero-request-servers](https://github.com/nikprad/leetcode/tree/master/2747-count-zero-request-servers) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/nikprad/leetcode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3886-sum-of-sortable-integers](https://github.com/nikprad/leetcode/tree/master/3886-sum-of-sortable-integers) |
