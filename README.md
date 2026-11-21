@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2747-count-zero-request-servers](https://github.com/nikprad/leetcode/tree/master/2747-count-zero-request-servers) |
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/nikprad/leetcode/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/nikprad/leetcode/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/nikprad/leetcode/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3364-minimum-positive-sum-subarray](https://github.com/nikprad/leetcode/tree/master/3364-minimum-positive-sum-subarray) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/nikprad/leetcode/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/nikprad/leetcode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2409-count-days-spent-together](https://github.com/nikprad/leetcode/tree/master/2409-count-days-spent-together) |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/nikprad/leetcode/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/nikprad/leetcode/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/nikprad/leetcode/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/nikprad/leetcode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Math
 |  |
@@ -107,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/nikprad/leetcode/tree/master/0001-two-sum) |
 | [1338-reduce-array-size-to-the-half](https://github.com/nikprad/leetcode/tree/master/1338-reduce-array-size-to-the-half) |
 | [2747-count-zero-request-servers](https://github.com/nikprad/leetcode/tree/master/2747-count-zero-request-servers) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/nikprad/leetcode/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/nikprad/leetcode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/nikprad/leetcode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 ## Sorting
@@ -185,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/nikprad/leetcode/tree/master/1254-number-of-closed-islands) |
 | [1267-count-servers-that-communicate](https://github.com/nikprad/leetcode/tree/master/1267-count-servers-that-communicate) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/nikprad/leetcode/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/nikprad/leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/nikprad/leetcode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Breadth-First Search
@@ -206,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [3331-find-subtree-sizes-after-changes](https://github.com/nikprad/leetcode/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/nikprad/leetcode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Binary Indexed Tree
 |  |
